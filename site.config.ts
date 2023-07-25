@@ -17,9 +17,9 @@ export default siteConfig({
   description: '点滴珍藏 ｜ 快乐分享',
 
   // social usernames (optional)
-  twitter: '',
-  github: 'atai-doul',
-  linkedin: '',
+  // twitter: '',
+  // github: 'atai-doul',
+  // linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
