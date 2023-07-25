@@ -1,10 +1,10 @@
 // 默认：7875426197cf461698809def95960ebf
-// 我的：5d0f458d9a1b42129811aeb92c9fb642
+// 我的：ed3109ebf8fb41b2be586115da2cfb76
 import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '5d0f458d9a1b42129811aeb92c9fb642',
+  rootNotionPageId: 'ed3109ebf8fb41b2be586115da2cfb76',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
